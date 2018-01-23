@@ -1,12 +1,4 @@
-// master mind
-// guys this is the base line program
-//that i have prepared
-//we need to edit text display
-//and beautify//
 
-//the scoring is done
-//regards
-//Amritha Anil
 
 
 #include<cstdlib>
